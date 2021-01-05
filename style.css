@@ -1,0 +1,12 @@
+body {
+    display: inline-flex;
+    flex-flow: column;
+}
+section.calculette {
+    background-color: lightblue;
+    border: solid black 1px;
+    margin: .3em;
+    padding-right: 1em;
+    padding-bottom: .5em;
+    display: inline-block;
+}

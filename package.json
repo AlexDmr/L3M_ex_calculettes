@@ -6,7 +6,7 @@
   "scripts": {
     "start": "parcel index.html"
   },
-  "author": "",
+  "author": "Alexandre Demeure, UGA",
   "license": "ISC",
   "devDependencies": {
     "parcel": "^1.12.4",
