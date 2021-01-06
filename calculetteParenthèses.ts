@@ -1,3 +1,12 @@
+/*
+ * Cela fonctionne de manière très similaire à l'exervice précédent (calculette avec priorité des opérateurs).
+ * Utilisez la fonction split à la place de la méthode split des chaînes de caractères.
+ * Utilisez la fonction parseExpr (définit à la fin de ce fichier) à la place de la fonction parseFloat.
+ * Ces fonctions gèrent les parentèses pour vous, vous pouvez les lire pour voir comment elle fonctionnent.
+ * N'hésitez pas à mettre des points d'arrêts via le debugger pour suivre le déroulement du programme.
+ */
+
+
 function split(str: string, op: string): string[] {
     let nb = 0;
     const L: string[] = [];
